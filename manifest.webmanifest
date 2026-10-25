@@ -1,0 +1,68 @@
+{
+  "id": "/LegalDefinitions/",
+  "name": "one·liners — US Legal Literacy",
+  "short_name": "Law",
+  "description": "US legal literacy one line at a time: 277 definitions on courts, procedure, constitutional rights, contracts, torts and criminal law, with adaptive two-way quizzes.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf7f0",
+  "theme_color": "#faf7f0",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshot-home-light.png",
+      "sizes": "1440x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Today, activity and subject mastery — US Legal Literacy"
+    },
+    {
+      "src": "assets/screenshot-quiz-dark.png",
+      "sizes": "1440x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "A two-way quiz with explanations and live mastery"
+    },
+    {
+      "src": "assets/screenshot-mobile-light.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "one·liners on a phone"
+    }
+  ]
+}
